@@ -14,6 +14,6 @@ Resolução da figura de um barco fornecida pelo professor, no jogo turtle
 
 ## Resultados 
 
-[](https://blockly.games/maze?lang=en&level=10&&skin=0#mq6akm)
-[](https://blockly.games/turtle?lang=en&level=10#89ujwa)
+[Resolução maze nivel 10](https://blockly.games/maze?lang=en&level=10&&skin=0#mq6akm)
+[Desenho do barco](https://blockly.games/turtle?lang=en&level=10#89ujwa)
 
