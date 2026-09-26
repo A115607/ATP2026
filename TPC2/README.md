@@ -1,3 +1,17 @@
+# TPC2: Advinha o número 
+
+## Autor
+
+- Mariana Santiago Machado Moreiras
+- A115607
+- <img width="4032" height="3024" alt="IMG_4705" src="https://github.com/user-attachments/assets/672bb1b8-46a7-43c1-929c-8d5d4413ba60" />
+
+## Resumo
+
+Desenvolvimento de um jogo de advinha o número com duas modalidades, onde o computador imprime no final o número de tentativas
+
+## Resultados
+
 [TPC2.py](https://github.com/user-attachments/files/32689181/TPC2.py)
 
 ```python
