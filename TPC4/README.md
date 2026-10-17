@@ -29,7 +29,7 @@ def mostrar_Menu():
     print("(6) Menor Elemento Lista")
     print("(7) Lista ordenada por ordem crescente")
     print("(8) Lista ordenada por ordem decrescente")
-    print("(9) Porucra um elemento da Lista")
+    print("(9) Procura um elemento da Lista")
     print("(0) Sair")
 
 def Menu():
