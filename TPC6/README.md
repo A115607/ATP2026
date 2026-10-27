@@ -1,31 +1,14 @@
-# TPC6 :
+# TPC6 : Aplicação para análise de dados meteorológicos
 
 ## Autor
 
 - Mariana Santiago Machado Moreiras
 - A115607
-- <img width="4032" height="3024" alt="IMG_4705" src="https://github.com/user-attachments/assets/65b696c5-40ff-4dc6-876f-5dad32422a5a" />
+ <img width="4032" height="3024" alt="IMG_4705" src="https://github.com/user-attachments/assets/65b696c5-40ff-4dc6-876f-5dad32422a5a" />
 
 ## Resumos 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Desenvolvimento de uma aplicação em Python com um menu interativo para análise de uma tabela com dados meteorológicos, na qual são guardados os registos de temperatura máxima e mínima e de precipitação ao longo de vários dias.
 
 
 ## Resultados 
