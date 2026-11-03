@@ -1,6 +1,6 @@
-# TPC7 : 
+# TPC7: Teste de Aferição 
 
-## Autor 
+## Autor: 
 
 - Mariana Santiago Machado Moreiras
 - A115607
@@ -8,8 +8,7 @@
 
 
 ## Resumo 
-
-
+Criação e desenvolvimento de várias funções e programas de forma a consolidar os conceitos lecionados nas aulas 
 
 
 
